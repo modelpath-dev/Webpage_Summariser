@@ -31,40 +31,8 @@ A Python-based application that fetches and analyzes the contents of a webpage, 
 2. Update the URL in the `web=Website('<url>')` line to the desired webpage you wish to summarize.
 3. Run the code to generate a concise summary of the webpage's content.
 
-## Example
-### Input
-`web=Website('https://www.cnbc.com/world/?region=world')`
-
-### Output
-The assistant will provide a concise summary in markdown, such as:
-
-### Summary of https://www.vit.ac.in/
-
-The webpage is the official website of Vellore Institute of Technology (VIT). It contains information about:
-- Admissions and academic programs.
-- Research and development activities.
-- Events and news updates related to the institute.
-- Links to student portals, faculty details, and online resources.
-
-Key announcements:
-- Admission deadlines for various programs.
-- Updates on recent achievements and ongoing events.
-
-## Troubleshooting
-### Git Push Issues
-If you encounter errors like:
-`! [rejected] main -> main (fetch first)`
-
-Run the following commands to synchronize your local and remote repositories:
-`git pull origin main --rebase`
-`git push -u origin main`
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or create pull requests for improvements.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-- **VIT Official Website**: For providing a demonstration use case.
-- **Ollama LLM**: For language model support.
