@@ -33,7 +33,7 @@ A Python-based application that fetches and analyzes the contents of a webpage, 
 
 ## Example
 ### Input
-`web=Website('https://www.vit.ac.in/')`
+`web=Website('https://www.cnbc.com/world/?region=world')`
 
 ### Output
 The assistant will provide a concise summary in markdown, such as:
