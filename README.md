@@ -33,6 +33,6 @@ A Python-based application that fetches and analyzes the contents of a webpage, 
 
 
 ## Contributing
-Contributions are welcome! Feel free to open issues or create pull requests for improvements.
+Contributions are welcome! Feel free to open issues or create pull requests for improvements. Especially putting this in a nice ui. 
 
 
